@@ -1,0 +1,2 @@
+# Multi-Level-Modular-Container-Food-Court-Design-at-NITK-Surathkal
+Volunteered in friend project in the planning and designing a multi-level campus food facility at NITK Surathkal using four repurposed 20-ft shipping containers, AutoCAD/Revit 3D modeling, pier-and-slab/isolated footing foundations, and a tiered cross-diagonal stormwater drainage system, backed by a ₹31.03 Lakh itemized CPWD-based cost estimate.
